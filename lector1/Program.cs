@@ -97,28 +97,33 @@ namespace ConsoleApplication1
         //Select statement
         public string Select(string id )
         {
-            
-            string query = "SELECT id FROM tags WHERE id = '"+id+"'";
+            string tagreader = null;
+           string query = "SELECT id FROM tags WHERE id = '"+id+"'";
             
             //open connection
             if (this.OpenConnection() == true)
             {
+                
                 //create command and assign the query and connection from the constructor
                 MySqlCommand cmd = new MySqlCommand(query, connection);
-
-                //Execute command
-                cmd.ExecuteNonQuery();
-                
                 MySqlDataReader reader = cmd.ExecuteReader();
-                string tagreader = reader.GetString(0);
+
+                while (reader.Read())
+                {
+                    tagreader = reader.GetString(0);
+                    //Console.WriteLine("Aqui");
+                }
+
+                reader.Close();
 
                 //close connection
                 this.CloseConnection();
-                Console.WriteLine(tagreader);
-                return tagreader;
+                                   
             }
-            
+            return tagreader;
         }
+
+     
     }
   
     class Program: DBConnect
