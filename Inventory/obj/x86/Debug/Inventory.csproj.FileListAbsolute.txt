@@ -1,0 +1,9 @@
+C:\Users\David\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\David\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\David\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\David\documents\visual studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\David\documents\visual studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\David\documents\visual studio 2010\Projects\Inventory\Inventory\bin\Debug\CAENRFIDLibrary.dll
+C:\Users\David\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\David\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
