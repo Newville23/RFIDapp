@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\lector1\lector1\bin\Debug\lector1.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\lector1\lector1\bin\Debug\lector1.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\lector1\lector1\bin\Debug\CAENRFIDLibrary.dll
+C:\Users\David\Documents\Visual Studio 2010\Projects\lector1\lector1\obj\x86\Debug\lector1.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\lector1\lector1\obj\x86\Debug\lector1.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\lector1\lector1\obj\x86\Debug\lector1.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\lector1\lector1\bin\Debug\MySql.Data.dll
